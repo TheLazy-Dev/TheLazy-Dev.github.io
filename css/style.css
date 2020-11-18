@@ -12,6 +12,7 @@ body {
   color: #fff;
   background-color: #000;
   letter-spacing: 1px;
+  overflow: hidden; /* Hide scrollbars */
 }
 
 .overlay {
